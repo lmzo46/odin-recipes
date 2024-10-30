@@ -1,2 +1,2 @@
 # odin-recipes
-making a recipe list that links to the recipes own page
+a list of my favorite recipes with links to their pages
